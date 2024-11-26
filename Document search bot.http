@@ -1,0 +1,6 @@
+@Document_search_bot_HostAddress = http://localhost:5004
+
+GET {{Document_search_bot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,7 @@
+D:\C# pratice\Document search bot\obj\Debug\net8.0\Document search bot.csproj.AssemblyReference.cache
+D:\C# pratice\Document search bot\obj\Debug\net8.0\Document search bot.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# pratice\Document search bot\obj\Debug\net8.0\Document search bot.AssemblyInfoInputs.cache
+D:\C# pratice\Document search bot\obj\Debug\net8.0\Document search bot.AssemblyInfo.cs
+D:\C# pratice\Document search bot\obj\Debug\net8.0\Document search bot.csproj.CoreCompileInputs.cache
+D:\C# pratice\Document search bot\obj\Debug\net8.0\Document search bot.MvcApplicationPartsAssemblyInfo.cs
+D:\C# pratice\Document search bot\obj\Debug\net8.0\Document search bot.MvcApplicationPartsAssemblyInfo.cache
